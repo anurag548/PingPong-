@@ -3,12 +3,12 @@ Code inspired by https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg
 
 ## General Info
 
-*Language Used :
+* Language Used :
 ```
   Python 3
 ```
 
-*Module Used :
+* Module Used :
 ```
   Turtle
 ```
